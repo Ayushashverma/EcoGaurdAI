@@ -20,7 +20,6 @@
   <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
   <img alt="Matplotlib" src="https://matplotlib.org/_static/images/logo2.svg" height="40" />
   <img alt="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" />
-  <img alt="Prophet" src="https://images.ctfassets.net/0h0hfn5zjvhh/6R7J1bHFPkSIB0W7jEhyqi/9ed87fdb1824aafec9b9870a9c1e159d/prophet-logo.svg" height="40" />
 </p>
 
 ---
