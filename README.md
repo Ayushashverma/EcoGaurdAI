@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsgBfwS96brx8h6/giphy.gif" alt="environment" width="500"/>
+  <img src="https://i.imgur.com/YourGIFid.gif" alt="environment" width="500"/>
 </p>
 
 ---
@@ -35,16 +35,6 @@
 
 ---
 
-## 📊 Example Visuals
-
-<p align="center">
-  <img src="https://i.imgur.com/7xG3lPc.png" alt="Air Quality Trend" width="600"/>
-</p>
-
-- PM2.5, PM10, NO₂ levels over time  
-- Water pH and turbidity monitoring  
-
----
 
 ## 📁 Folder Structure
 
